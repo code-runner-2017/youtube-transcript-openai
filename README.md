@@ -4,11 +4,11 @@ This utility:
 
     - downloads the transcript of any Youtube video
     - uses OpenAI's API to summarize and extract key points from the video
-    - saves everything in a file in markdown format
+    - saves everything in a local file in markdown format
 
 ## Requirements
 
-You need an OpenAI API key and Python 3. 
+You need an OpenAI API key and Python v3. 
 
 ## Setup Instructions
 
